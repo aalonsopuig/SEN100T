@@ -1,0 +1,8 @@
+SEN100T
+Dattalogger de temperatura con 6 sensores.
+
+SEN100T_3DBox: Planos realizados con Freecad de la caja.
+SEN100TT_Caratula: Diseño de la carátula de la caja
+SEN100T_Media: Fotos y vídeos
+SEN100T_Prog:: Programa Arduino
+Shield_SEN100T: Shield en Eagle
